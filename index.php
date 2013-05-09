@@ -1,0 +1,4 @@
+<? 
+echo "Created from browser";
+
+?>
